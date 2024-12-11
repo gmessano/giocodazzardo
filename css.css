@@ -1,0 +1,49 @@
+body{
+    background-color: #D3D3D3;
+ color: black;
+   
+}
+
+h3{
+    color: #F08080	;
+    margin-bottom: 0px;
+   
+}
+
+.titolo{
+    text-align: center;
+    font-weight: bolder;
+    color: brown;
+    background-color: black;
+    margin: 10px 100px 10px 100px;
+    padding-bottom: 5px;
+}
+
+.foto1{
+    width: 400px;
+    position: relative;
+    left: 840px;
+    border-radius: 20px;
+    box-shadow: 8px 8px black;
+}
+
+
+
+.primoparagrafo1{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.primoparagrafo{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    margin: 0px;
+    margin-top: 0px;
+    
+}
+
+a{
+    color: red;
+}
+
